@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sheet Viewer</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500&family=IBM+Plex+Sans+KR:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #f5f4f0;
+  --surface: #ffffff;
+  --surface2: #f0efe9;
+  --border: #dddbd3;
+  --border2: #c8c6bc;
+  --text: #1a1917;
+  --text2: #6b6960;
+  --text3: #a8a69e;
+  --accent: #1a472a;
+  --accent-light: #e8f0ea;
+  --mono: 'IBM Plex Mono', monospace;
+  --sans: 'IBM Plex Sans KR', sans-serif;
+  --r: 4px;
+  --header-h: 48px;
+  --tab-h: 36px;
+  --row-h: 21px;
+  --col-h: 22px;
+  --row-num-w: 46px;
+  --cell-default-w: 100px;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 13px;
+  line-height: 1.4;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Top bar ── */
+.topbar {
+  height: var(--header-h);
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  gap: 16px;
+  flex-shrink: 0;
+  z-index: 100;
+}
+
+.topbar-logo {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--accent);
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+}
+
+.topbar-title {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text);
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.topbar-meta {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--text3);
+  white-space: nowrap;
+}
+
+.topbar-sep { width: 1px; height: 20px; background: var(--border); }
+
+/* File picker button */
+.topbar-load {
+  background: none;
+  border: 1px solid var(--border2);
+  color: var(--text2);
+  font-family: var(--mono);
+  font-size: 11px;
+  padding: 5px 12px;
+  border-radius: var(--r);
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.topbar-load:hover { border-color: var(--accent); color: var(--accent); }
+
+/* Formula bar */
+.formulabar {
+  height: 28px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.formulabar-cell {
+  width: var(--row-num-w);
+  border-right: 1px solid var(--border);
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--text2);
+  flex-shrink: 0;
+}
+
+.formulabar-value {
+  flex: 1;
+  padding: 0 10px;
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--text);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* ── Tab bar ── */
+.tabbar {
+  height: var(--tab-h);
+  background: var(--surface2);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: flex-end;
+  padding: 0 8px;
+  gap: 2px;
+  overflow-x: auto;
+  flex-shrink: 0;
+}
+
+.tabbar::-webkit-scrollbar { height: 3px; }
+.tabbar::-webkit-scrollbar-thumb { background: var(--border2); }
+
+.tab {
+  padding: 6px 16px;
+  font-size: 12px;
+  color: var(--text2);
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-bottom: none;
+  border-radius: 4px 4px 0 0;
+  white-space: nowrap;
+  transition: all 0.1s;
+  background: transparent;
+  font-family: var(--sans);
+}
+
+.tab:hover { color: var(--text); background: rgba(255,255,255,0.5); }
+
+.tab.active {
+  background: var(--surface);
+  color: var(--text);
+  border-color: var(--border);
+  font-weight: 500;
+}
+
+/* ── Grid ── */
+.grid-wrap {
+  flex: 1;
+  overflow: auto;
+  position: relative;
+}
+
+.grid-wrap::-webkit-scrollbar { width: 8px; height: 8px; }
+.grid-wrap::-webkit-scrollbar-track { background: var(--surface2); }
+.grid-wrap::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 4px; }
+
+.grid-table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  position: relative;
+}
+
+/* Column headers */
+.col-header {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  text-align: center;
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--text2);
+  font-weight: 400;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: 0;
+  height: var(--col-h);
+  vertical-align: middle;
+  user-select: none;
+}
+
+.col-header.active-col { background: var(--accent-light); color: var(--accent); }
+
+/* Row numbers */
+.row-num {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  text-align: center;
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--text2);
+  font-weight: 400;
+  position: sticky;
+  left: 0;
+  z-index: 5;
+  width: var(--row-num-w);
+  min-width: var(--row-num-w);
+  user-select: none;
+  vertical-align: middle;
+}
+
+.row-num.active-row { background: var(--accent-light); color: var(--accent); }
+
+/* Corner */
+.corner {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 20;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  width: var(--row-num-w);
+  min-width: var(--row-num-w);
+}
+
+/* Data cells */
+.cell {
+  border: 1px solid #e0dedd;
+  padding: 2px 4px;
+  vertical-align: middle;
+  font-size: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: cell;
+  max-width: 0; /* force table-layout to respect width */
+  position: relative;
+}
+
+.cell.selected-cell {
+  outline: 2px solid var(--accent);
+  outline-offset: -1px;
+  z-index: 2;
+}
+
+/* ── Loading / Empty states ── */
+.state-screen {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: var(--text3);
+  gap: 12px;
+}
+
+.state-screen .state-icon {
+  font-size: 40px;
+  opacity: 0.3;
+}
+
+.state-screen p {
+  font-size: 14px;
+  font-family: var(--mono);
+}
+
+.state-screen small {
+  font-size: 12px;
+  font-family: var(--mono);
+  color: var(--text3);
+}
+
+.drop-hint {
+  border: 2px dashed var(--border2);
+  border-radius: 8px;
+  padding: 24px 40px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.drop-hint:hover, .drop-hint.drag-over {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-light);
+}
+
+.load-btn-large {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  font-family: var(--mono);
+  font-size: 13px;
+  padding: 12px 28px;
+  border-radius: var(--r);
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.load-btn-large:hover { opacity: 0.85; }
+
+/* Frozen highlight */
+.frozen-row { border-bottom: 2px solid #7aab8a !important; }
+.frozen-col { border-right: 2px solid #7aab8a !important; }
+
+/* Drag overlay */
+.drag-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(26,71,42,0.08);
+  z-index: 1000;
+  pointer-events: none;
+  border: 3px dashed var(--accent);
+}
+
+.drag-overlay.active { display: block; }
+</style>
+</head>
+<body>
+
+<div class="drag-overlay" id="drag-overlay"></div>
+
+<!-- Top bar -->
+<div class="topbar">
+  <span class="topbar-logo">▸ Sheet Viewer</span>
+  <div class="topbar-sep"></div>
+  <span class="topbar-title" id="topbar-title">파일을 열어주세요</span>
+  <span class="topbar-meta" id="topbar-meta"></span>
+  <button class="topbar-load" onclick="triggerFilePick()">JSON 열기</button>
+  <input type="file" id="file-input" accept=".json" style="display:none" onchange="loadFile(this.files[0])">
+</div>
+
+<!-- Formula bar -->
+<div class="formulabar">
+  <div class="formulabar-cell" id="cell-ref">A1</div>
+  <div class="formulabar-value" id="cell-value"></div>
+</div>
+
+<!-- Tab bar -->
+<div class="tabbar" id="tabbar" style="display:none"></div>
+
+<!-- Content -->
+<div id="main-content">
+  <div class="state-screen" id="start-screen">
+    <div class="state-icon">⊞</div>
+    <div class="drop-hint" id="drop-zone" onclick="triggerFilePick()">
+      <p>JSON 파일을 여기에 끌어다 놓거나 클릭해서 열기</p>
+      <small style="margin-top:6px;display:block;">backup-tool.html로 추출한 .json 파일</small>
+    </div>
+    <button class="load-btn-large" onclick="triggerFilePick()">파일 열기 →</button>
+    <small>URL 파라미터로도 열 수 있습니다: ?file=시트이름.json</small>
+  </div>
+</div>
+
+<script>
+// ─── State ───────────────────────────────────────────────
+let sheetData = null;
+let currentSheet = 0;
+let selectedCell = { r: 0, c: 0 };
+
+// ─── Init ─────────────────────────────────────────────────
+window.addEventListener("DOMContentLoaded", () => {
+  // URL param: ?file=something.json
+  const params = new URLSearchParams(location.search);
+  const fileParam = params.get("file");
+  if (fileParam) {
+    fetch(fileParam)
+      .then(r => { if (!r.ok) throw new Error("파일 없음"); return r.json(); })
+      .then(data => renderSheet(data))
+      .catch(e => showError("파일 로드 실패: " + e.message));
+  }
+
+  // Drag & drop
+  document.addEventListener("dragover", e => {
+    e.preventDefault();
+    document.getElementById("drag-overlay").classList.add("active");
+    document.getElementById("drop-zone")?.classList.add("drag-over");
+  });
+  document.addEventListener("dragleave", e => {
+    if (!e.relatedTarget) {
+      document.getElementById("drag-overlay").classList.remove("active");
+      document.getElementById("drop-zone")?.classList.remove("drag-over");
+    }
+  });
+  document.addEventListener("drop", e => {
+    e.preventDefault();
+    document.getElementById("drag-overlay").classList.remove("active");
+    const file = e.dataTransfer.files[0];
+    if (file) loadFile(file);
+  });
+});
+
+function triggerFilePick() { document.getElementById("file-input").click(); }
+
+function loadFile(file) {
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = e => {
+    try {
+      const data = JSON.parse(e.target.result);
+      renderSheet(data);
+    } catch(err) {
+      showError("JSON 파싱 실패: " + err.message);
+    }
+  };
+  reader.readAsText(file);
+}
+
+function showError(msg) {
+  document.getElementById("main-content").innerHTML =
+    `<div class="state-screen"><div class="state-icon">⚠</div><p>${msg}</p></div>`;
+}
+
+// ─── Render ───────────────────────────────────────────────
+function renderSheet(data) {
+  sheetData = data;
+
+  // Title
+  document.title = data.title + " — Sheet Viewer";
+  document.getElementById("topbar-title").textContent = data.title;
+  document.getElementById("topbar-meta").textContent =
+    `${data.rowCount?.toLocaleString() || "?"}행 × ${data.colCount || "?"}열`;
+
+  // Single sheet — no tabs needed
+  document.getElementById("tabbar").style.display = "none";
+
+  const main = document.getElementById("main-content");
+  main.innerHTML = "";
+  main.style.flex = "1";
+  main.style.overflow = "auto";
+  main.style.display = "flex";
+  main.style.flexDirection = "column";
+
+  const wrap = document.createElement("div");
+  wrap.className = "grid-wrap";
+  main.appendChild(wrap);
+
+  buildGrid(wrap, data);
+}
+
+function buildGrid(container, data) {
+  const { values, cells, colWidths, rowHeights, merges, frozenRows, frozenCols } = data;
+
+  // Build cell lookup map
+  const cellMap = {};
+  (cells || []).forEach(c => { cellMap[`${c.r},${c.c}`] = c; });
+
+  // Build merge map — for merged cells, only render top-left; others span
+  const mergeMap = {}; // key = "r,c" -> merge info
+  const mergeSkip = new Set(); // cells to skip (non-top-left of a merge)
+  (merges || []).forEach(m => {
+    for (let r = m.r1; r <= m.r2; r++) {
+      for (let c = m.c1; c <= m.c2; c++) {
+        mergeMap[`${r},${c}`] = m;
+        if (r !== m.r1 || c !== m.c1) mergeSkip.add(`${r},${c}`);
+      }
+    }
+  });
+
+  // Dimensions
+  const numRows = Math.max(values.length, 1);
+  const numCols = Math.max(...values.map(r => r.length), colWidths?.length || 0, 26);
+
+  const table = document.createElement("table");
+  table.className = "grid-table";
+
+  // ── Column header row ──
+  const thead = document.createElement("thead");
+  const headRow = document.createElement("tr");
+
+  // Corner cell
+  const corner = document.createElement("th");
+  corner.className = "corner col-header";
+  corner.style.width = "46px";
+  corner.style.minWidth = "46px";
+  headRow.appendChild(corner);
+
+  for (let c = 0; c < numCols; c++) {
+    const th = document.createElement("th");
+    th.className = "col-header";
+    th.textContent = colLabel(c);
+    const w = colWidths?.[c] || 100;
+    th.style.width = w + "px";
+    th.style.minWidth = w + "px";
+    if (c === frozenCols - 1) th.classList.add("frozen-col");
+    headRow.appendChild(th);
+  }
+  thead.appendChild(headRow);
+  table.appendChild(thead);
+
+  // ── Data rows ──
+  const tbody = document.createElement("tbody");
+
+  for (let r = 0; r < numRows; r++) {
+    const tr = document.createElement("tr");
+    const rh = rowHeights?.[r] || 21;
+    tr.style.height = rh + "px";
+
+    // Row number cell
+    const rn = document.createElement("td");
+    rn.className = "row-num";
+    rn.textContent = r + 1;
+    if (r === frozenRows - 1) rn.classList.add("frozen-row");
+    tr.appendChild(rn);
+
+    for (let c = 0; c < numCols; c++) {
+      const key = `${r},${c}`;
+      if (mergeSkip.has(key)) continue;
+
+      const td = document.createElement("td");
+      td.className = "cell";
+      td.dataset.r = r;
+      td.dataset.c = c;
+
+      // Merge span
+      const merge = mergeMap[key];
+      if (merge) {
+        td.rowSpan = merge.r2 - merge.r1 + 1;
+        td.colSpan = merge.c2 - merge.c1 + 1;
+      }
+
+      // Value
+      const val = values?.[r]?.[c] || "";
+      const cellInfo = cellMap[key];
+
+      td.textContent = cellInfo?.v ?? val;
+
+      // Apply formatting
+      if (cellInfo) {
+        applyFormat(td, cellInfo, rh);
+      }
+
+      // Frozen borders
+      if (r === frozenRows - 1) td.style.borderBottom = "2px solid #7aab8a";
+      if (c === frozenCols - 1) td.style.borderRight = "2px solid #7aab8a";
+
+      td.addEventListener("click", () => selectCell(r, c, val, cellInfo));
+      tr.appendChild(td);
+    }
+
+    tbody.appendChild(tr);
+  }
+
+  table.appendChild(tbody);
+  container.appendChild(table);
+}
+
+function applyFormat(td, cell, rowHeight) {
+  // Background
+  if (cell.bg) td.style.backgroundColor = cell.bg;
+
+  // Borders
+  if (cell.borders) {
+    if (cell.borders.top)    td.style.borderTop    = cell.borders.top;
+    if (cell.borders.bottom) td.style.borderBottom = cell.borders.bottom;
+    if (cell.borders.left)   td.style.borderLeft   = cell.borders.left;
+    if (cell.borders.right)  td.style.borderRight  = cell.borders.right;
+  }
+
+  // Font
+  if (cell.font) {
+    const f = cell.font;
+    if (f.bold)   td.style.fontWeight = "bold";
+    if (f.italic) td.style.fontStyle  = "italic";
+    if (f.strike) td.style.textDecoration = "line-through";
+    if (f.under)  td.style.textDecoration = (td.style.textDecoration ? td.style.textDecoration + " " : "") + "underline";
+    if (f.size)   td.style.fontSize = f.size + "pt";
+    if (f.color)  td.style.color = f.color;
+    if (f.family) td.style.fontFamily = f.family;
+  }
+
+  // Alignment
+  const alignMap = { LEFT: "left", CENTER: "center", RIGHT: "right" };
+  if (cell.hAlign && alignMap[cell.hAlign]) td.style.textAlign = alignMap[cell.hAlign];
+
+  const vAlignMap = { TOP: "top", MIDDLE: "middle", BOTTOM: "bottom" };
+  if (cell.vAlign && vAlignMap[cell.vAlign]) td.style.verticalAlign = vAlignMap[cell.vAlign];
+
+  // Wrap
+  if (cell.wrap === "WRAP") {
+    td.style.whiteSpace = "normal";
+    td.style.wordBreak = "break-word";
+    td.style.overflow = "visible";
+    td.style.textOverflow = "clip";
+    td.style.minHeight = rowHeight + "px";
+  }
+}
+
+function selectCell(r, c, val, cellInfo) {
+  // Deselect previous
+  document.querySelectorAll(".cell.selected-cell").forEach(el => el.classList.remove("selected-cell"));
+  const el = document.querySelector(`.cell[data-r="${r}"][data-c="${c}"]`);
+  if (el) el.classList.add("selected-cell");
+
+  selectedCell = { r, c };
+  document.getElementById("cell-ref").textContent = `${colLabel(c)}${r + 1}`;
+  document.getElementById("cell-value").textContent = cellInfo?.v ?? val ?? "";
+}
+
+function colLabel(n) {
+  let s = "";
+  while (n >= 0) {
+    s = String.fromCharCode(65 + (n % 26)) + s;
+    n = Math.floor(n / 26) - 1;
+  }
+  return s;
+}
+</script>
+</body>
+</html>
