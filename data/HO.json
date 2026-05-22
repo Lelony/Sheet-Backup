@@ -1,0 +1,7950 @@
+{
+  "title": "HO",
+  "rowCount": 49,
+  "colCount": 10,
+  "values": [
+    [],
+    [
+      "",
+      "Security Servant Service"
+    ],
+    [],
+    [
+      "",
+      "창공의 빛을 유리 벽면마다 머금은 마천루,\n\n각계각층의 셀럽이 참석한 천공의 연회장.\n\n이곳에서 펼쳐진다는, FH 모 셀의 음모.\n\n \n\n그것을 저지하는 임무를 받았다는 의뢰인은\n\n「임무 내용은 극비리」라는 한 마디와 함께,\n\n작전의 동행인인 당신에게 침묵해 버린다.\n\n \n\n파티의 은막에 가려진 진실은 무엇인가.\n\n파국의 서곡은, 고요히 당신들을 덮쳐 온다.\n\nDouble Cross the 3rd Edition 「Security Servant Service」\n더블 크로스, 그것은 배신!? 을 의미하는 말."
+    ],
+    [],
+    [
+      "",
+      "PC①",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PLAYER: "
+    ],
+    [
+      "",
+      "",
+      "",
+      "LOIS",
+      "MPC (버그)",
+      "COVER",
+      "지정없음"
+    ],
+    [
+      "",
+      "",
+      "",
+      "EMOTION",
+      "P 비호 / N 소외감",
+      "WORKS",
+      "지정없",
+      "",
+      "그루"
+    ],
+    [],
+    [
+      "",
+      "",
+      "",
+      "당신은 MPC와 협력하고 보호하는 임무를 맡았다. 고층 호텔 최상층에서 열린다는 초청 파티에 참석해, FH 모 셀을 저지하는 것이 임무의 요지.\r\n그러나 잠입 당일까지, 상대방은 작전의 내용을 정확히 이야기해주지 않는다."
+    ],
+    [],
+    [],
+    [
+      "",
+      "PC②",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PLAYER: "
+    ],
+    [
+      "",
+      "",
+      "",
+      "LOIS",
+      "",
+      "COVER"
+    ],
+    [
+      "",
+      "",
+      "",
+      "EMOTION",
+      "P / N",
+      "WORKS"
+    ],
+    [],
+    [
+      "",
+      "",
+      "",
+      "핸드아웃 내용"
+    ],
+    [],
+    [],
+    [
+      "",
+      "PC③",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PLAYER: "
+    ],
+    [
+      "",
+      "",
+      "",
+      "LOIS",
+      "",
+      "COVER"
+    ],
+    [
+      "",
+      "",
+      "",
+      "EMOTION",
+      "P / N",
+      "WORKS"
+    ],
+    [],
+    [
+      "",
+      "",
+      "",
+      "핸드아웃 내용"
+    ],
+    [],
+    [],
+    [
+      "",
+      "PC④",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PLAYER: "
+    ],
+    [
+      "",
+      "",
+      "",
+      "LOIS",
+      "",
+      "COVER"
+    ],
+    [
+      "",
+      "",
+      "",
+      "EMOTION",
+      "P / N",
+      "WORKS"
+    ],
+    [],
+    [
+      "",
+      "",
+      "",
+      "핸드아웃 내용"
+    ],
+    [],
+    [],
+    [
+      "",
+      "PC⑤",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PLAYER: "
+    ],
+    [
+      "",
+      "",
+      "",
+      "LOIS",
+      "",
+      "COVER"
+    ],
+    [
+      "",
+      "",
+      "",
+      "EMOTION",
+      "P / N",
+      "WORKS"
+    ],
+    [],
+    [
+      "",
+      "",
+      "",
+      "핸드아웃 내용"
+    ],
+    [],
+    [],
+    [
+      "",
+      "NOTICE"
+    ],
+    [
+      "",
+      "",
+      "",
+      "① 사용 서플리먼트: R1, R2, + GM PL 공통으로 소지한 서플이면 뭐든 ok"
+    ],
+    [
+      "",
+      "",
+      "",
+      "② 경험점: 160점 (130+30점) + 무료 이지 이펙트 2개"
+    ],
+    [
+      "",
+      "",
+      "",
+      "③ 골든룰/하우스룰: PC에게는 다음 설정이 붙는다. 임무를 받아 MPC를 호위한다.\n또한 PC는 UGN이나 기타 조직 관련자 등, MPC와 조직의 명령으로 동행하거나 직접 의뢰를 받아 움직이는 역할을 상정한다. 상대를 보호할 만한 무력을 갖춘 쪽, 딜러로 작성하는 편을 권장. 퀵 스타트로 작성 시, 자전의 사자(룰 2, P64)·사신의 손(룰 2, P66)을 추천한다."
+    ],
+    [
+      "",
+      "",
+      "",
+      "그 외 안내사항"
+    ],
+    [],
+    [],
+    [
+      "",
+      "『더블 크로스』는 FarEast Amusement Research Co., Ltd의 저작물입니다.\n이 스프레드시트는 세션 플레이를 위해 제작된 자료로, 저작물의 권리를 침해할 의도가 없습니다.\n시트사용문의 @5VAH4"
+    ]
+  ],
+  "cells": [
+    {
+      "r": 0,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 0,
+      "c": 1,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 0,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 0,
+      "c": 3,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 0,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 0,
+      "c": 5,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 0,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 0,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 0,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 0,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 1,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Oswald"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 1,
+      "c": 1,
+      "v": "Security Servant Service",
+      "bg": "#f3f3f3",
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": true,
+        "strike": false,
+        "under": false,
+        "size": 18,
+        "color": null,
+        "family": "Oswald"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 1,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Oswald"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 2,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 2,
+      "c": 1,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 2,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 2,
+      "c": 3,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 2,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 2,
+      "c": 5,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 2,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 2,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 2,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 2,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 3,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 3,
+      "c": 1,
+      "v": "창공의 빛을 유리 벽면마다 머금은 마천루,\n\n각계각층의 셀럽이 참석한 천공의 연회장.\n\n이곳에서 펼쳐진다는, FH 모 셀의 음모.\n\n \n\n그것을 저지하는 임무를 받았다는 의뢰인은\n\n「임무 내용은 극비리」라는 한 마디와 함께,\n\n작전의 동행인인 당신에게 침묵해 버린다.\n\n \n\n파티의 은막에 가려진 진실은 무엇인가.\n\n파국의 서곡은, 고요히 당신들을 덮쳐 온다.\n\nDouble Cross the 3rd Edition 「Security Servant Service」\n더블 크로스, 그것은 배신!? 을 의미하는 말.",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 3,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 4,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 4,
+      "c": 1,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 4,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 4,
+      "c": 3,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 4,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 4,
+      "c": 5,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 4,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 4,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 4,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": null,
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 4,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 5,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 5,
+      "c": 1,
+      "v": "PC①",
+      "bg": "#f3f3f3",
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 11,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 5,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 5,
+      "c": 8,
+      "v": "PLAYER: ",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": "LEFT",
+      "vAlign": "TOP",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 5,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 6,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 6,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 6,
+      "c": 3,
+      "v": "LOIS",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 6,
+      "c": 4,
+      "v": "MPC (버그)",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 6,
+      "c": 5,
+      "v": "COVER",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 6,
+      "c": 6,
+      "v": "지정없음",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 6,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 6,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 7,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 7,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 7,
+      "c": 3,
+      "v": "EMOTION",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 7,
+      "c": 4,
+      "v": "P 비호 / N 소외감",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 7,
+      "c": 5,
+      "v": "WORKS",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 7,
+      "c": 6,
+      "v": "지정없",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 7,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 7,
+      "c": 8,
+      "v": "그루",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "LEFT",
+      "vAlign": "TOP",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 7,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 8,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 8,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 8,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 9,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 9,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 9,
+      "c": 3,
+      "v": "당신은 MPC와 협력하고 보호하는 임무를 맡았다. 고층 호텔 최상층에서 열린다는 초청 파티에 참석해, FH 모 셀을 저지하는 것이 임무의 요지.\r\n그러나 잠입 당일까지, 상대방은 작전의 내용을 정확히 이야기해주지 않는다.",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 9,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 10,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 10,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 10,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 11,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 11,
+      "c": 1,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 11,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 11,
+      "c": 3,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 11,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 11,
+      "c": 5,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 11,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 11,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 11,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 11,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 12,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 12,
+      "c": 1,
+      "v": "PC②",
+      "bg": "#f3f3f3",
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 11,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 12,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 12,
+      "c": 8,
+      "v": "PLAYER: ",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": "LEFT",
+      "vAlign": "TOP",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 12,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 13,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 13,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 13,
+      "c": 3,
+      "v": "LOIS",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 13,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 13,
+      "c": 5,
+      "v": "COVER",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 13,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 13,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 13,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 14,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 14,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 14,
+      "c": 3,
+      "v": "EMOTION",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 14,
+      "c": 4,
+      "v": "P / N",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 14,
+      "c": 5,
+      "v": "WORKS",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 14,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 14,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 14,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "LEFT",
+      "vAlign": "TOP",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 14,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 15,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 15,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 15,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 16,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 16,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 16,
+      "c": 3,
+      "v": "핸드아웃 내용",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 16,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 17,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 17,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 17,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 18,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 18,
+      "c": 1,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 18,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 18,
+      "c": 3,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 18,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 18,
+      "c": 5,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 18,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 18,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 18,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 18,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 19,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 19,
+      "c": 1,
+      "v": "PC③",
+      "bg": "#f3f3f3",
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 11,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 19,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 19,
+      "c": 8,
+      "v": "PLAYER: ",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": "LEFT",
+      "vAlign": "TOP",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 19,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 20,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 20,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 20,
+      "c": 3,
+      "v": "LOIS",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 20,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 20,
+      "c": 5,
+      "v": "COVER",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 20,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 20,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 20,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 21,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 21,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 21,
+      "c": 3,
+      "v": "EMOTION",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 21,
+      "c": 4,
+      "v": "P / N",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 21,
+      "c": 5,
+      "v": "WORKS",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 21,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 21,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 21,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "LEFT",
+      "vAlign": "TOP",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 21,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 22,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 22,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 22,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 23,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 23,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 23,
+      "c": 3,
+      "v": "핸드아웃 내용",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 23,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 24,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 24,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 24,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 25,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 25,
+      "c": 1,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 25,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 25,
+      "c": 3,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 25,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 25,
+      "c": 5,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 25,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 25,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 25,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 25,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 26,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 26,
+      "c": 1,
+      "v": "PC④",
+      "bg": "#f3f3f3",
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 11,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 26,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 26,
+      "c": 8,
+      "v": "PLAYER: ",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": "LEFT",
+      "vAlign": "TOP",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 26,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 27,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 27,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 27,
+      "c": 3,
+      "v": "LOIS",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 27,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 27,
+      "c": 5,
+      "v": "COVER",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 27,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 27,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 27,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 28,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 28,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 28,
+      "c": 3,
+      "v": "EMOTION",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 28,
+      "c": 4,
+      "v": "P / N",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 28,
+      "c": 5,
+      "v": "WORKS",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 28,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 28,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 28,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "LEFT",
+      "vAlign": "TOP",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 28,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 29,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 29,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 29,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 30,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 30,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 30,
+      "c": 3,
+      "v": "핸드아웃 내용",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 30,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 31,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 31,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 31,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 32,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 32,
+      "c": 1,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 32,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 32,
+      "c": 3,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 32,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 32,
+      "c": 5,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 32,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 32,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 32,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 32,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 33,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 33,
+      "c": 1,
+      "v": "PC⑤",
+      "bg": "#f3f3f3",
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 11,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 33,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 33,
+      "c": 8,
+      "v": "PLAYER: ",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": "LEFT",
+      "vAlign": "TOP",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 33,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 34,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 34,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 34,
+      "c": 3,
+      "v": "LOIS",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 34,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 34,
+      "c": 5,
+      "v": "COVER",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 34,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 34,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 34,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 35,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 35,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 35,
+      "c": 3,
+      "v": "EMOTION",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 35,
+      "c": 4,
+      "v": "P / N",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 35,
+      "c": 5,
+      "v": "WORKS",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 35,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 35,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 35,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #000000",
+        "bottom": "1px dotted #000000",
+        "left": "1px dotted #000000",
+        "right": "1px dotted #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "LEFT",
+      "vAlign": "TOP",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 35,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 36,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 36,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 36,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 37,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 37,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 37,
+      "c": 3,
+      "v": "핸드아웃 내용",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 37,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 38,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 38,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 38,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 39,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 39,
+      "c": 1,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 39,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 39,
+      "c": 3,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 39,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 39,
+      "c": 5,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 39,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 39,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 39,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": null,
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 39,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 40,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 40,
+      "c": 1,
+      "v": "NOTICE",
+      "bg": "#f3f3f3",
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": true,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 11,
+        "color": null,
+        "family": "Abel"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 40,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 40,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 41,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 41,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 41,
+      "c": 3,
+      "v": "① 사용 서플리먼트: R1, R2, + GM PL 공통으로 소지한 서플이면 뭐든 ok",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 41,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 41,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 42,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 42,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 42,
+      "c": 3,
+      "v": "② 경험점: 160점 (130+30점) + 무료 이지 이펙트 2개",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 42,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 42,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 43,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 43,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 43,
+      "c": 3,
+      "v": "③ 골든룰/하우스룰: PC에게는 다음 설정이 붙는다. 임무를 받아 MPC를 호위한다.\n또한 PC는 UGN이나 기타 조직 관련자 등, MPC와 조직의 명령으로 동행하거나 직접 의뢰를 받아 움직이는 역할을 상정한다. 상대를 보호할 만한 무력을 갖춘 쪽, 딜러로 작성하는 편을 권장. 퀵 스타트로 작성 시, 자전의 사자(룰 2, P64)·사신의 손(룰 2, P66)을 추천한다.",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 43,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 43,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 44,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 44,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 44,
+      "c": 3,
+      "v": "그 외 안내사항",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 44,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 45,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 45,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 45,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 46,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 46,
+      "c": 1,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": null,
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 46,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": null,
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 46,
+      "c": 3,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": null,
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 46,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": null,
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 46,
+      "c": 5,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": null,
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 46,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": null,
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 46,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": null,
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 46,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": null,
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 46,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 47,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": null
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 47,
+      "c": 1,
+      "v": "『더블 크로스』는 FarEast Amusement Research Co., Ltd의 저작물입니다.\n이 스프레드시트는 세션 플레이를 위해 제작된 자료로, 저작물의 권리를 침해할 의도가 없습니다.\n시트사용문의 @5VAH4",
+      "bg": null,
+      "borders": {
+        "top": "1px dotted #cccccc",
+        "bottom": "1px dotted #cccccc",
+        "left": "1px dotted #cccccc",
+        "right": "1px dotted #cccccc"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": "CENTER",
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 47,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": null,
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 48,
+      "c": 0,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 48,
+      "c": 1,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": null,
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 48,
+      "c": 2,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": null,
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 48,
+      "c": 3,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": null,
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 48,
+      "c": 4,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": null,
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 48,
+      "c": 5,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": null,
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 48,
+      "c": 6,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": null,
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 48,
+      "c": 7,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": null,
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 48,
+      "c": 8,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": null,
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    },
+    {
+      "r": 48,
+      "c": 9,
+      "v": "",
+      "bg": null,
+      "borders": {
+        "top": "1px solid #000000",
+        "bottom": "1px solid #000000",
+        "left": "1px solid #000000",
+        "right": "1px solid #000000"
+      },
+      "font": {
+        "bold": false,
+        "italic": false,
+        "strike": false,
+        "under": false,
+        "size": 9,
+        "color": null,
+        "family": "Nanum Gothic"
+      },
+      "hAlign": null,
+      "vAlign": "MIDDLE",
+      "wrap": "WRAP",
+      "numFmt": null
+    }
+  ],
+  "colWidths": [
+    30,
+    100,
+    15,
+    60,
+    150,
+    60,
+    150,
+    152,
+    20,
+    30
+  ],
+  "rowHeights": [
+    23,
+    50,
+    30,
+    21,
+    30,
+    21,
+    21,
+    21,
+    15,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    15,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    15,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    15,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    15,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    21,
+    30,
+    60,
+    30
+  ],
+  "merges": [
+    {
+      "r1": 1,
+      "c1": 1,
+      "r2": 1,
+      "c2": 8
+    },
+    {
+      "r1": 3,
+      "c1": 1,
+      "r2": 3,
+      "c2": 8
+    },
+    {
+      "r1": 5,
+      "c1": 1,
+      "r2": 10,
+      "c2": 1
+    },
+    {
+      "r1": 5,
+      "c1": 2,
+      "r2": 5,
+      "c2": 7
+    },
+    {
+      "r1": 5,
+      "c1": 8,
+      "r2": 6,
+      "c2": 8
+    },
+    {
+      "r1": 7,
+      "c1": 8,
+      "r2": 10,
+      "c2": 8
+    },
+    {
+      "r1": 8,
+      "c1": 2,
+      "r2": 8,
+      "c2": 7
+    },
+    {
+      "r1": 9,
+      "c1": 3,
+      "r2": 9,
+      "c2": 7
+    },
+    {
+      "r1": 10,
+      "c1": 2,
+      "r2": 10,
+      "c2": 7
+    },
+    {
+      "r1": 12,
+      "c1": 1,
+      "r2": 17,
+      "c2": 1
+    },
+    {
+      "r1": 12,
+      "c1": 2,
+      "r2": 12,
+      "c2": 7
+    },
+    {
+      "r1": 12,
+      "c1": 8,
+      "r2": 13,
+      "c2": 8
+    },
+    {
+      "r1": 14,
+      "c1": 8,
+      "r2": 17,
+      "c2": 8
+    },
+    {
+      "r1": 15,
+      "c1": 2,
+      "r2": 15,
+      "c2": 7
+    },
+    {
+      "r1": 16,
+      "c1": 3,
+      "r2": 16,
+      "c2": 7
+    },
+    {
+      "r1": 17,
+      "c1": 2,
+      "r2": 17,
+      "c2": 7
+    },
+    {
+      "r1": 19,
+      "c1": 1,
+      "r2": 24,
+      "c2": 1
+    },
+    {
+      "r1": 19,
+      "c1": 2,
+      "r2": 19,
+      "c2": 7
+    },
+    {
+      "r1": 19,
+      "c1": 8,
+      "r2": 20,
+      "c2": 8
+    },
+    {
+      "r1": 21,
+      "c1": 8,
+      "r2": 24,
+      "c2": 8
+    },
+    {
+      "r1": 22,
+      "c1": 2,
+      "r2": 22,
+      "c2": 7
+    },
+    {
+      "r1": 23,
+      "c1": 3,
+      "r2": 23,
+      "c2": 7
+    },
+    {
+      "r1": 24,
+      "c1": 2,
+      "r2": 24,
+      "c2": 7
+    },
+    {
+      "r1": 26,
+      "c1": 1,
+      "r2": 31,
+      "c2": 1
+    },
+    {
+      "r1": 26,
+      "c1": 2,
+      "r2": 26,
+      "c2": 7
+    },
+    {
+      "r1": 26,
+      "c1": 8,
+      "r2": 27,
+      "c2": 8
+    },
+    {
+      "r1": 28,
+      "c1": 8,
+      "r2": 31,
+      "c2": 8
+    },
+    {
+      "r1": 29,
+      "c1": 2,
+      "r2": 29,
+      "c2": 7
+    },
+    {
+      "r1": 30,
+      "c1": 3,
+      "r2": 30,
+      "c2": 7
+    },
+    {
+      "r1": 31,
+      "c1": 2,
+      "r2": 31,
+      "c2": 7
+    },
+    {
+      "r1": 33,
+      "c1": 1,
+      "r2": 38,
+      "c2": 1
+    },
+    {
+      "r1": 33,
+      "c1": 2,
+      "r2": 33,
+      "c2": 7
+    },
+    {
+      "r1": 33,
+      "c1": 8,
+      "r2": 34,
+      "c2": 8
+    },
+    {
+      "r1": 35,
+      "c1": 8,
+      "r2": 38,
+      "c2": 8
+    },
+    {
+      "r1": 36,
+      "c1": 2,
+      "r2": 36,
+      "c2": 7
+    },
+    {
+      "r1": 44,
+      "c1": 3,
+      "r2": 44,
+      "c2": 8
+    },
+    {
+      "r1": 45,
+      "c1": 2,
+      "r2": 45,
+      "c2": 8
+    },
+    {
+      "r1": 37,
+      "c1": 3,
+      "r2": 37,
+      "c2": 7
+    },
+    {
+      "r1": 38,
+      "c1": 2,
+      "r2": 38,
+      "c2": 7
+    },
+    {
+      "r1": 40,
+      "c1": 1,
+      "r2": 45,
+      "c2": 1
+    },
+    {
+      "r1": 40,
+      "c1": 2,
+      "r2": 40,
+      "c2": 8
+    },
+    {
+      "r1": 41,
+      "c1": 3,
+      "r2": 41,
+      "c2": 7
+    },
+    {
+      "r1": 42,
+      "c1": 3,
+      "r2": 42,
+      "c2": 7
+    },
+    {
+      "r1": 43,
+      "c1": 3,
+      "r2": 43,
+      "c2": 7
+    },
+    {
+      "r1": 47,
+      "c1": 1,
+      "r2": 47,
+      "c2": 8
+    }
+  ],
+  "frozenRows": 0,
+  "frozenCols": 0
+}
