@@ -522,7 +522,7 @@ async function fetchSheetFull(key, ssId, sheetTitle) {
 
   // 2. Full formatting via spreadsheets.get with specific sheet range
   const fResp = await fetch(
-    `${SHEETS_API}/${ssId}?ranges=${encoded}&fields=sheets(data(rowData(values(userEnteredFormat,userEnteredValue,effectiveValue,formattedValue,mergeId)),columnMetadata,rowMetadata),merges,properties)&includeGridData=true&key=${key}`
+    `${SHEETS_API}/${ssId}?ranges=${encoded}&includeGridData=true&key=${key}`
   );
   if (!fResp.ok) throw new Error("서식 조회 실패: " + (await fResp.json()).error?.message);
   const fData = await fResp.json();
